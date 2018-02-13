@@ -4,22 +4,22 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 12, 2018
 
 ### Student Name:  
-(First and Last Name)
+Glennetria J. Harold
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Put the different methods taught in this lesson to use in order to complete 
+the Monthly Expense Calculator application based on the user's input.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://gjh16.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to convert Strings of user input into float to get a numeric value using the parseFloat() function.
+2. I learned how to use the getElementbyId() method in order to reference other elements using the id I assigned to it.
+3. I learned how to clear an entire form using the getElementbyId() method to essentially find and overwrite the old information.
 
 
 
